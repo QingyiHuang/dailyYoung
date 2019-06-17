@@ -10,4 +10,4 @@
 
 [学习内容参考haizlin](https://github.com/haizlin/)
 
-[2019年6月内容](JavaScript:;)
+[2019年6月内容](https://github.com/QingyiHuang/dailyYoung/tree/master/2019%E5%B9%B46%E6%9C%88)
