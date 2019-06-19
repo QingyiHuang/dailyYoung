@@ -5,4 +5,5 @@
 3. [获取图片原始宽高](https://github.com/QingyiHuang/dailyYoung/issues/3)
 4. [HTML全局属性(global attribute)有哪些 (包含H5)?](https://github.com/QingyiHuang/dailyYoung/issues/4)
 5. [删除字符串中最后一个指定的字符](https://github.com/QingyiHuang/dailyYoung/issues/5)
+6. [let和var在循环中使用setTimeout打印的不同](https://github.com/QingyiHuang/dailyYoung/issues/6)
 
